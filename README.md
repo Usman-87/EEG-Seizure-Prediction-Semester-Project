@@ -88,31 +88,6 @@ EEG-Seizure-Prediction-Semester-Project/
 
 ---
 
-## Visual Results
-
-### Class Distribution
-
-![Class Distribution](graphs/class_distribution.png)
-
----
-
-### Confusion Matrix
-
-![Confusion Matrix](graphs/confusion_matrix.png)
-
----
-
-### ROC Curve
-
-![ROC Curve](graphs/roc_curve.png)
-
----
-
-### Precision-Recall Curve
-
-![Precision Recall](graphs/precision_recall.png)
-
----
 
 ## Key Findings
 
